@@ -1,14 +1,14 @@
-# fake-news-detection-system
-Fake news detection system using machine learning + system deployment using Streamlit
+# Fake News Detection System
 
 ## Overview
-This project implements a fake news detection system using multiple machine learning models, including Logistic Regression, Naive Bayes, K-Nearest Neighbours, Support Vector Machines, and Random Forest.
+This project implements a fake news detection system using multiple machine learning models, including Logistic Regression, Naïve Bayes, K-Nearest Neighbours, Support Vector Machines, and Random Forest, and deploys a web-based interface using Streamlit, selecting the best model to carry out fake news detecction
 
 ## Features
 - Text preprocessing (tokenisation, stop-word removal, lemmatisation, lowercasing)
 - TF-IDF feature extraction
 - Model training and evaluation
 - Performance comparison using accuracy, precision, recall, and F1-score
+- System Deployment using Streamlit
 
 ## Results
 Random Forest achieved the best performance with approximately 90% accuracy.
