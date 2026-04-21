@@ -17,6 +17,7 @@ Random Forest achieved the best performance with approximately 90% accuracy.
 1. Open the notebook in Google Colab
 2. Upload all dataset CSV files (provided in submission)
 3. Run all cells from top to bottom
+4. After the cells are run, a link is provided to the UI that opens via Streamlit, click the link and input text in the box provided
 
 ## Dataset
 Datasets are not included due to file size limitations. All datasets are provided in the submission.
